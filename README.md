@@ -5,13 +5,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=nairgh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-###
-
-![snake gif](https://github.com/nairgh/nairgh/blob/output/github-contribution-grid-snake.gif)
-
-###
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nairgh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nairgh&theme=dark&hide_border=false)<br/>
@@ -27,5 +20,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=nairgh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
+###
 
+![snake gif](https://github.com/nairgh /nairgh /blob/output/github-contribution-grid-snake.gif)
+
+###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
