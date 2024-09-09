@@ -10,7 +10,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nairgh/nairgh/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
@@ -25,9 +25,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###
 
-![snake gif](https://github.com/nairgh/nairgh/blob/output/github-contribution-grid-snake.gif)
-
-###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
