@@ -7,7 +7,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nairgh/nairgh/output/snake.svg" alt="Snake animation" />
+  ![Snake animation](https://github.com/nairgh/nairgh/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
