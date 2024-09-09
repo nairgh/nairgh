@@ -22,7 +22,7 @@
 
 ###
 
-![snake gif](https://github.com/nairgh /nairgh /blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/nairgh/nairgh/blob/output/github-contribution-grid-snake.gif)
 
 ###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
