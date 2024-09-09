@@ -8,7 +8,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nairgh /nairgh /output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/nairgh/nairgh/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
