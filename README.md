@@ -7,12 +7,12 @@
 
 [![](https://visitcount.itsvg.in/api?id=nairgh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
+<!-- <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nairgh/nairgh/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
-</div>
+</div> -->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nairgh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
